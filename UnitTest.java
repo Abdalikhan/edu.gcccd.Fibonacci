@@ -9,6 +9,9 @@ public class UnitTest {
 	}
 	return fibonnacci(number -1) + fibonnacci(number -2);
 	}
+	 int n = 100;
+ 	int b = n*(n+1)/2;
+ 	
 }
 
 
